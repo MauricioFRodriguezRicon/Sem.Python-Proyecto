@@ -45,21 +45,15 @@ Para este proyecto las tecnologias empleadas fueron:
 ### **Clonado**
 * El clonado se puede realizar con el comando
 ```
-git clone https://gitlab.catedras.linti.unlp.edu.ar/python2023/code/grupo09.git
-```
-* Por problemas proximos a solucionar debe cambiar la rama de trabajo a la rama "ENTREGA_FINAL" con el comando
-```
-git checkout ENTREGA_FINAL
+git clone https://github.com/MauricioFRodriguezRicon/Sem.Python-Proyecto.git
 ```
 
 ### **Descarga**
-* La descarga se puede realizar desde la url https://gitlab.catedras.linti.unlp.edu.ar/python2023/code/grupo09.git
-
-* Por problemas proximos a solucionar se solicita que antes de realizar la descarga se cambie a la rama "ENTREGA_FINAL"
+* La descarga se puede realizar desde la url https://github.com/MauricioFRodriguezRicon/Sem.Python-Proyecto.git
 
 ### **Ejecucion**
 
-* Para ejecutar el programa debe escribir uno de los siguientes comandos dentro de la carpeta "grupo09" dependiendo de su instalacion de python
+* Para ejecutar el programa debe escribir uno de los siguientes comandos dentro de la carpeta principal dependiendo de su instalacion de python
 ```
 python unlpimage.py
 
@@ -71,7 +65,7 @@ python3 unlpimage.py
 jupyter notebook
 ```
 
-* Para abrir el archivo "estadisticas_streamlit.py", estando con la terminal en la carpeta "grupo09" se debe ejecutar el siguiente comando
+* Para abrir el archivo "estadisticas_streamlit.py", estando con la terminal en la carpeta principal se debe ejecutar el siguiente comando
 ```
 streamlit run estadisticas_streamlit.py
 ```
@@ -90,6 +84,6 @@ pip3 install -r requeriments.txt
 
 ## Fuentes
 
-En caso de tener algun problema con las fuentes la carpeta para instalarlas se encuentra en "grupo09/ventanas/fuentes"
+En caso de tener algun problema con las fuentes la carpeta para instalarlas se encuentra en "ventanas/fuentes"
 
 
