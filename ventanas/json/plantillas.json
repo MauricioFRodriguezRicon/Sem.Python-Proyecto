@@ -1,0 +1,104 @@
+[
+    {
+        "image": "heidi.jpg",
+        "name": "heidi no esta deacuerdo (2 text boxes)",
+        "text_boxes": [
+            {
+                "top_left_x": 27,
+                "top_left_y": 15,
+                "bottom_right_x": 140,
+                "bottom_right_y": 51
+            },
+            {
+                "top_left_x": 219,
+                "top_left_y": 31,
+                "bottom_right_x": 333,
+                "bottom_right_y": 84
+            }
+        ]
+    },
+    {
+        "image": "lisa.png",
+        "name": "lisa (1 text box)",
+        "text_boxes": [
+            {
+                "top_left_x": 122,
+                "top_left_y": 76,
+                "bottom_right_x": 392,
+                "bottom_right_y": 224
+            }
+        ]
+    },
+    {
+        "image": "peter_y_mary_jane.png",
+        "name": "peter y mary jane (2 text boxes)",
+        "text_boxes": [
+            {
+                "top_left_x": 47,
+                "top_left_y": 138,
+                "bottom_right_x": 360,
+                "bottom_right_y": 171
+            },
+            {
+                "top_left_x": 36,
+                "top_left_y": 328,
+                "bottom_right_x": 361,
+                "bottom_right_y": 355
+            }
+        ]
+    },
+    {
+        "image": "si_y_no.png",
+        "name": "Si / No (2 text boxes)",
+        "text_boxes": [
+            {
+                "top_left_x": 300,
+                "top_left_y": 26,
+                "bottom_right_x": 501,
+                "bottom_right_y": 169
+            },
+            {
+                "top_left_x": 309,
+                "top_left_y": 302,
+                "bottom_right_x": 504,
+                "bottom_right_y": 438
+            }
+        ]
+    },
+    {
+        "image": "toy_story_oloroso_pitt.jpg",
+        "name": "yo te dire lo que es injusto (1 text box)",
+        "text_boxes": [
+            {
+                "top_left_x": 47,
+                "top_left_y": 493,
+                "bottom_right_x": 483,
+                "bottom_right_y": 535
+            }
+        ]
+    },
+    {
+        "image": "winnie_the_pooh.png",
+        "name": "Winnie the pooh (3 text boxes)",
+        "text_boxes": [
+            {
+                "top_left_x": 264,
+                "top_left_y": 20,
+                "bottom_right_x": 439,
+                "bottom_right_y": 133
+            },
+            {
+                "top_left_x": 270,
+                "top_left_y": 228,
+                "bottom_right_x": 439,
+                "bottom_right_y": 338
+            },
+            {
+                "top_left_x": 262,
+                "top_left_y": 411,
+                "bottom_right_x": 441,
+                "bottom_right_y": 515
+            }
+        ]
+    }
+]

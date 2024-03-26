@@ -1,0 +1,82 @@
+[
+    {
+        "alias": "facussssxxxx",
+        "nombre": "facu",
+        "edad": "4",
+        "genero": "nobinaro",
+        "esOtroGenero": false,
+        "queOtroGenero": "",
+        "imagen": "cuchara.png",
+        "pos" : 0
+    },
+    {
+        "alias": "fede",
+        "nombre": "federico",
+        "edad": "42",
+        "genero": "masculino",
+        "esOtroGenero": false,
+        "queOtroGenero": "",
+        "imagen": "goku.png",
+        "pos" : 1
+    },
+    {
+        "alias": "tintono",
+        "nombre": "martin",
+        "edad": "66",
+        "genero": "masculino",
+        "esOtroGenero": false,
+        "queOtroGenero": "",
+        "imagen": "pikachu.png",
+        "pos": 2
+    },
+    {
+        "alias": "marti",
+        "nombre": "martina",
+        "edad": 4,
+        "genero": "femenino",
+        "esOtroGenero": false,
+        "queOtroGenero": "",
+        "imagen": "stitch.png",
+        "pos": 3
+    },
+    {
+        "alias": "gina",
+        "nombre": "gigi",
+        "edad": "5",
+        "genero": "masculino",
+        "esOtroGenero": true,
+        "queOtroGenero": "Transgenero",
+        "imagen": "cuchara.png",
+        "pos": 4
+    },
+    {
+        "alias": "lore",
+        "nombre": "lorena",
+        "edad": "5",
+        "genero": "femenino",
+        "esOtroGenero": true,
+        "queOtroGenero": "Transgenero",
+        "imagen": "bart.png",
+        "pos": 5
+    },
+    {
+        "alias": "prueba",
+        "nombre": "franco armani",
+        "edad": "34",
+        "genero": "masculino",
+        "esOtroGenero": false,
+        "queOtroGenero": "Complete el genero",
+        "imagen": "predeterminado.png",
+        "pos": 6
+    },
+    {
+        "alias": "mauri",
+        "nombre": "mauricio",
+        "edad": "21",
+        "genero": "masculino",
+        "esOtroGenero": false,
+        "queOtroGenero": "Complete el genero",
+        "imagen": "stitch.png",
+        "pos": 7
+    }
+]
